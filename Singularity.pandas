@@ -39,6 +39,7 @@ From: tensorflow/tensorflow:1.13.1-gpu-py3
 
   # scikit, scipy
   apt-get install -y python3-scipy
+  apt-get install python3-sklearn python3-sklearn-lib python3-sklearn-doc
   # pip3 install scipy scikit-learn scikit-image
 
   # PIL (pillow for python 3)
